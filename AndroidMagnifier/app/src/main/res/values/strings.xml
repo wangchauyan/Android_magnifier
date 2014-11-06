@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AndroidMagnifier</string>
+    <string name="hello_world">B-school students can’t get enough of </string>
+    <string name="action_settings">Settings</string>
+
+</resources>
