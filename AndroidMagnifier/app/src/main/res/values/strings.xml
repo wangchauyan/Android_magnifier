@@ -2,7 +2,47 @@
 <resources>
 
     <string name="app_name">AndroidMagnifier</string>
-    <string name="hello_world">B-school students can’t get enough of </string>
+    <string name="hello_world">B-school students can’t get enough of big data. Neither can recruiters.
+
+Interest in specialized, one-year master’s programs in business analytics, the discipline of using data to explore and solve business problems, has increased lately, prompting at least five business schools to roll out stand-alone programs in the past two years.
+
+The growing interest in analytics comes amid a broader shift in students’ ambitions. No longer content with jobs at big financial and consulting firms, the most plum jobs for B-school grads are now in technology or in roles that combine business skills with data acumen, say school administrators.
+
+But some faculty and school administrators remain unconvinced that the programs properly prepare students to work with analytics.
+
+The University of Southern California’s Marshall School of Business began its Master of Business Analytics program this fall with 30 students. About 50 to 60 students are expected to enroll in the $47,000 program next year, the school said.
+
+RELATED
+
+On B-School Test, U.S. Can’t Compete With Asia
+Using Data Tools to Spur Sales Staff
+The program was the brainchild of Marshall’s corporate advisory board-executives at blue-chip firms like General Electric Co. , Boeing Co. and Walt Disney Co. who say they need more hires with analytics talent, said James Ellis, the school’s dean. The board also recommended that undergraduate students at Marshall be required to take a course in the subject.
+
+“We find it invaluable to have people who can synthesize data” and suggest changes based on those insights, said Melissa Lora, president of Yum Brands Inc. ’s Taco Bell International, who serves on the school’s corporate-advisory board.
+
+Business-analytics professionals, for instance, are needed at Taco Bell to sort data on restaurants’ service speed and product quality, as well as social-media metrics, Ms. Lora said.
+
+Amy Hillman, dean at Arizona State University’s W.P. Carey School of Business, said interest in a year-old master’s program in business analytics has spread “like wildfire.” More than 300 people applied for 87 spots in this year’s class, according to the school.
+
+Ayushi Agrawal, a current Carey student, said she left her job as a senior business analyst at a Bangalore, India, branch of a Chicago-based analytics firm to enroll in the program. As data become central to more business decisions, “I want to be at the forefront” of the emerging field, the 24-year-old student said.
+
+‘We find it invaluable to have people who can synthesize data.’
+—Melissa Lora, president of Taco Bell International
+The Massachusetts Institute of Technology also has a new program in the works. Professors and administrators at its Sloan School of Management are developing a tentatively titled Masters in Analytics program to be offered jointly with the university’s Operations Research Center beginning in 2016, said Dimitris Bertsimas, co-director of the center. The program will enroll about 50 students, he said.
+
+At General Motors Co. , business-analytics professionals “make sense of big data, mine vast quantities of information, and look for trends in customer and dealer behavior,” said Nate Bruin-Slot, a customer-experience manager at GM who has recruited students from analytics programs.
+
+Starting salaries for 2013 grads of the M.S. Business Analytics program at Michigan State University’s Eli Broad College of Business averaged $75,000, according to the school, while salaries for graduates of the two-year M.B.A. program averaged $90,000. Generally, the analytics students tend to have a strong background in computer programming and statistics, school officials say.
+
+Yet others say it is smarter to deliver analytics training to all students, rather than a select few.
+
+Northwestern University’s Kellogg School of Management offers several courses in analytics, some of which are required for M.B.A.s. The school has no plans to offer a stand-alone business-analytics degree, said Florian Zettelmeyer, director of Kellogg’s Program on Data Analytics.
+
+“These one-year masters programs are creating a type of person who is neither fish nor fowl,” Dr. Zettelmeyer said. “We fear they’re neither as competent with data as real data scientists, nor have the leadership skills that you really need to drive change in analytics,” he said.
+
+Michael Rappa, founding director of the Institute for Advanced Analytics at North Carolina State University, said analytics is best studied in an interdisciplinary context, rather than only through a university’s business school.
+
+“Analytics programs in a business school will always be in the shadow of the M.B.A. program,” said Dr. Rappa, architect of the Institute’s popular Master of Science in Analytics program, launched in 2007. “That’s how the school is ranked.”</string>
     <string name="action_settings">Settings</string>
 
 </resources>
