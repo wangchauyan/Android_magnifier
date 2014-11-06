@@ -7,4 +7,4 @@ Try it.
 
 <br >
 <br >
-![figure 1](https://github.com/wangchauyan/Android_magnifier/tree/master/image/device-2014-11-06-135456.png "figure 1")
+![figure 1](https://github.com/wangchauyan/Android_magnifier/blob/master/image/device-2014-11-06-135456.png "figure 1")
